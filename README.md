@@ -1,1 +1,1 @@
-"# Grand.Plugin.Misc.EuropaCheckVat" 
+Grand.Plugin.Misc.EuropaCheckVat is a simple plugin for GrandNode, which validates the EU VAT Numbers provided in the store. You can use it to check if provided number is valid or not. It's connected with external service. That's why we've decided to move it out from the project.
