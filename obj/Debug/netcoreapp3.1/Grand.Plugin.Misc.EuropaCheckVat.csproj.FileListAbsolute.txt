@@ -1,0 +1,9 @@
+C:\Users\ppora\source\repos\grandnode\grandnode\Grand.Web\Plugins\Misc.EuropaCheckVat\logo.jpg
+C:\Users\ppora\source\repos\grandnode\grandnode\Grand.Web\Plugins\Misc.EuropaCheckVat\Grand.Plugin.Misc.EuropaCheckVat.deps.json
+C:\Users\ppora\source\repos\grandnode\grandnode\Grand.Web\Plugins\Misc.EuropaCheckVat\Grand.Plugin.Misc.EuropaCheckVat.dll
+C:\Users\ppora\source\repos\grandnode\grandnode\Grand.Web\Plugins\Misc.EuropaCheckVat\Grand.Plugin.Misc.EuropaCheckVat.pdb
+C:\Users\ppora\source\repos\grandnode\grandnode\Plugins\Grand.Plugin.Misc.EuropaCheckVat\obj\Debug\netcoreapp3.1\Grand.Plugin.Misc.EuropaCheckVat.csprojAssemblyReference.cache
+C:\Users\ppora\source\repos\grandnode\grandnode\Plugins\Grand.Plugin.Misc.EuropaCheckVat\obj\Debug\netcoreapp3.1\Grand.Plugin.Misc.EuropaCheckVat.AssemblyInfoInputs.cache
+C:\Users\ppora\source\repos\grandnode\grandnode\Plugins\Grand.Plugin.Misc.EuropaCheckVat\obj\Debug\netcoreapp3.1\Grand.Plugin.Misc.EuropaCheckVat.AssemblyInfo.cs
+C:\Users\ppora\source\repos\grandnode\grandnode\Plugins\Grand.Plugin.Misc.EuropaCheckVat\obj\Debug\netcoreapp3.1\Grand.Plugin.Misc.EuropaCheckVat.dll
+C:\Users\ppora\source\repos\grandnode\grandnode\Plugins\Grand.Plugin.Misc.EuropaCheckVat\obj\Debug\netcoreapp3.1\Grand.Plugin.Misc.EuropaCheckVat.pdb
